@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Howard Taylor <tayhow42@hotmail.com> (https://www.bbc.co.uk/)",
-  "license": "SEE LICENSE IN LICENSE.md"
+  "license": "SEE LICENSE IN LICENSE.md",
+  "dependencies": {
+    "tailwindcss": "^3.3.2"
+  }
 }
