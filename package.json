@@ -1,0 +1,11 @@
+{
+  "name": "quizle",
+  "version": "1.0.0",
+  "description": "quizle.org website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Howard Taylor <tayhow42@hotmail.com> (https://www.bbc.co.uk/)",
+  "license": "SEE LICENSE IN LICENSE.md"
+}
